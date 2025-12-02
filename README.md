@@ -18,4 +18,4 @@ Este projeto explorou a capacidade da Inteligência Artificial Generativa de cri
 ![retrato de close-up de um fisiculturista 'natty' sorrindo, na academia](watermarked-1ed34949-2a86-4914-9e58-8d490ed26b60.jpg)
 
 ## 💭 Reflexão (Opcional)
-[Foi surpreendentemente difícil instruir a IA a não exagerar na definição muscular, pois a tendência da ferramenta era gerar um padrão estético "não natural". Isso mostra como as IAs ainda carregam um viés estético que precisa ser corrigido com prompts específicos, provando a complexidade de criar algo verdadeiramente "natty" com IA.]
+Foi surpreendentemente difícil instruir a IA a não exagerar na definição muscular, pois a tendência da ferramenta era gerar um padrão estético "não natural". Isso mostra como as IAs ainda carregam um viés estético que precisa ser corrigido com prompts específicos, provando a complexidade de criar algo verdadeiramente "natty" com IA.
